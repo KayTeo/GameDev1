@@ -1,0 +1,5 @@
+﻿  Takumi.cpp
+  MainGame.cpp
+  Generating Code...
+MainGame.obj : error LNK2019: unresolved external symbol __imp__glClearColor@16 referenced in function "private: void __thiscall MainGame::initSystems(void)" (?initSystems@MainGame@@AAEXXZ)
+C:\Users\ASUS user\Documents\Visual Studio 2015\Gane\GameDev\Debug\GameDev.exe : fatal error LNK1120: 1 unresolved externals
